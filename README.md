@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🔭 I’m currently Studying in **11th Grade**
+ 🔭 I’m currently Studying in **12th Grade**
  
- ✈️ I’m currently Learning to **Python & Linux**
+ ✈️ I’m currently Learning to **Python, C, C++ & Linux**
 
 💬 Ask me about **OnePiece**, **Music**, or **anything** [.....](https://github.com/SunnyElder/SunnyElder/issues)
 
